@@ -1,0 +1,14 @@
+{
+  "source": "gsc-last28-2026-09-22.xlsx",
+  "search_type": "Web",
+  "date_range": "2026-08-24/2026-09-20",
+  "us_clicks": 347,
+  "us_impressions": 39280,
+  "us_ctr": 0.0088,
+  "us_position": 19.77,
+  "devices": {
+    "mobile": {"clicks": 260, "impressions": 10804},
+    "desktop": {"clicks": 100, "impressions": 29268},
+    "tablet": {"clicks": 3, "impressions": 129}
+  }
+}
