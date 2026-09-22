@@ -1,0 +1,2419 @@
+{
+  "site": "sc-domain:gclawgroup.com",
+  "start": "2026-08-23",
+  "end": "2026-09-19",
+  "queries": [
+    {
+      "query": "green country law group",
+      "clicks": 30,
+      "impressions": 117,
+      "ctr": 0.2564,
+      "position": 1.12
+    },
+    {
+      "query": "gc law group",
+      "clicks": 10,
+      "impressions": 33,
+      "ctr": 0.303,
+      "position": 1.09
+    },
+    {
+      "query": "green country law",
+      "clicks": 5,
+      "impressions": 10,
+      "ctr": 0.5,
+      "position": 1.4
+    },
+    {
+      "query": "cherokee attorneys",
+      "clicks": 2,
+      "impressions": 20,
+      "ctr": 0.1,
+      "position": 9.15
+    },
+    {
+      "query": "lawyers tahlequah ok",
+      "clicks": 2,
+      "impressions": 177,
+      "ctr": 0.0113,
+      "position": 2.78
+    },
+    {
+      "query": "real estate lawyer",
+      "clicks": 2,
+      "impressions": 2743,
+      "ctr": 0.0007,
+      "position": 7.03
+    },
+    {
+      "query": "tax attorney",
+      "clicks": 2,
+      "impressions": 6269,
+      "ctr": 0.0003,
+      "position": 8.84
+    },
+    {
+      "query": "cherokee nation family law attorney",
+      "clicks": 1,
+      "impressions": 60,
+      "ctr": 0.0167,
+      "position": 10.45
+    },
+    {
+      "query": "cherokee nation lawyers",
+      "clicks": 1,
+      "impressions": 49,
+      "ctr": 0.0204,
+      "position": 6.57
+    },
+    {
+      "query": "contract lawyer near me",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 1
+    },
+    {
+      "query": "criminal defense attorney tahlequah ok",
+      "clicks": 1,
+      "impressions": 10,
+      "ctr": 0.1,
+      "position": 16.2
+    },
+    {
+      "query": "divorce attorney tulsa ok",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 2
+    },
+    {
+      "query": "divorce in oklahoma",
+      "clicks": 1,
+      "impressions": 25,
+      "ctr": 0.04,
+      "position": 4.56
+    },
+    {
+      "query": "divorce process in oklahoma",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 3
+    },
+    {
+      "query": "family lawyers in oklahoma city",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 3
+    },
+    {
+      "query": "green country family law",
+      "clicks": 1,
+      "impressions": 8,
+      "ctr": 0.125,
+      "position": 6.12
+    },
+    {
+      "query": "green law firm ada ok",
+      "clicks": 1,
+      "impressions": 3,
+      "ctr": 0.3333,
+      "position": 10
+    },
+    {
+      "query": "insurance attorney near me",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 1
+    },
+    {
+      "query": "is oklahoma a 50/50 divorce state",
+      "clicks": 1,
+      "impressions": 39,
+      "ctr": 0.0256,
+      "position": 4.87
+    },
+    {
+      "query": "is oklahoma a no fault divorce state",
+      "clicks": 1,
+      "impressions": 3,
+      "ctr": 0.3333,
+      "position": 3
+    },
+    {
+      "query": "is oklahoma an alimony state",
+      "clicks": 1,
+      "impressions": 4,
+      "ctr": 0.25,
+      "position": 3
+    },
+    {
+      "query": "land attorneys near me",
+      "clicks": 1,
+      "impressions": 3,
+      "ctr": 0.3333,
+      "position": 12
+    },
+    {
+      "query": "lawyers in tahlequah oklahoma",
+      "clicks": 1,
+      "impressions": 13,
+      "ctr": 0.0769,
+      "position": 3.23
+    },
+    {
+      "query": "lawyers tahlequah",
+      "clicks": 1,
+      "impressions": 27,
+      "ctr": 0.037,
+      "position": 6.96
+    },
+    {
+      "query": "oklahoma divorce law",
+      "clicks": 1,
+      "impressions": 6,
+      "ctr": 0.1667,
+      "position": 9.67
+    },
+    {
+      "query": "oklahoma indian legal services",
+      "clicks": 1,
+      "impressions": 8,
+      "ctr": 0.125,
+      "position": 22.75
+    },
+    {
+      "query": "personal injury lawyer near me",
+      "clicks": 1,
+      "impressions": 2,
+      "ctr": 0.5,
+      "position": 2
+    },
+    {
+      "query": "social security lawyers near me",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 1
+    },
+    {
+      "query": "tax attorney in my area",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 4
+    },
+    {
+      "query": "tax attorney near me",
+      "clicks": 1,
+      "impressions": 269,
+      "ctr": 0.0037,
+      "position": 67.83
+    },
+    {
+      "query": "tribal attorneys near me",
+      "clicks": 1,
+      "impressions": 28,
+      "ctr": 0.0357,
+      "position": 10.71
+    },
+    {
+      "query": "tulsa employment attorney",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 1
+    },
+    {
+      "query": "what happens if someone files a civil suit against you",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 5
+    },
+    {
+      "query": "+tax +lawyer",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 76
+    },
+    {
+      "query": "105c",
+      "clicks": 0,
+      "impressions": 94,
+      "ctr": 0,
+      "position": 9.12
+    },
+    {
+      "query": "105c letter",
+      "clicks": 0,
+      "impressions": 11,
+      "ctr": 0,
+      "position": 9.18
+    },
+    {
+      "query": "2026 best business debt settlement lawyers in oklahoma",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 37
+    },
+    {
+      "query": "22 years married",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "3147883969",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 18.5
+    },
+    {
+      "query": "405-522-5737",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 4
+    },
+    {
+      "query": "50/50 divorce law",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 89
+    },
+    {
+      "query": "7208816221",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 9
+    },
+    {
+      "query": "[state] tax relief lawyer",
+      "clicks": 0,
+      "impressions": 6,
+      "ctr": 0,
+      "position": 15
+    },
+    {
+      "query": "a house",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 2
+    },
+    {
+      "query": "a real estate attorney",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 93.5
+    },
+    {
+      "query": "a tax attorney",
+      "clicks": 0,
+      "impressions": 6,
+      "ctr": 0,
+      "position": 28.83
+    },
+    {
+      "query": "ad valorem real estate taxes",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 49.5
+    },
+    {
+      "query": "administrative lawyer",
+      "clicks": 0,
+      "impressions": 43,
+      "ctr": 0,
+      "position": 2.35
+    },
+    {
+      "query": "adoptions probates attorney",
+      "clicks": 0,
+      "impressions": 26,
+      "ctr": 0,
+      "position": 1.96
+    },
+    {
+      "query": "advocacy law group",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 12
+    },
+    {
+      "query": "affordable tax attorney",
+      "clicks": 0,
+      "impressions": 4,
+      "ctr": 0,
+      "position": 85.25
+    },
+    {
+      "query": "affordable tax attorney near me",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 78.67
+    },
+    {
+      "query": "after a divorce who gets the house",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 4
+    },
+    {
+      "query": "alimony calculator oklahoma",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 2
+    },
+    {
+      "query": "alimony in oklahoma",
+      "clicks": 0,
+      "impressions": 9,
+      "ctr": 0,
+      "position": 3
+    },
+    {
+      "query": "all",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 2
+    },
+    {
+      "query": "ambrielle dress",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 65
+    },
+    {
+      "query": "ambrielle marie",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 68.33
+    },
+    {
+      "query": "apartment lawyers",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 2
+    },
+    {
+      "query": "appeals law firm",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 79
+    },
+    {
+      "query": "appeals lawyer oklahoma criminal cases",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 58
+    },
+    {
+      "query": "are there tax lawyers",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 73
+    },
+    {
+      "query": "assault and battery lawyer near me",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 21
+    },
+    {
+      "query": "asset acceptance lawyer",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 60
+    },
+    {
+      "query": "asset lawyer",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "asset preservation attorney",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 38
+    },
+    {
+      "query": "asset protection attorney",
+      "clicks": 0,
+      "impressions": 20,
+      "ctr": 0,
+      "position": 71.85
+    },
+    {
+      "query": "asset protection attorney tulsa",
+      "clicks": 0,
+      "impressions": 10,
+      "ctr": 0,
+      "position": 14.4
+    },
+    {
+      "query": "asset protection attorneys tulsa",
+      "clicks": 0,
+      "impressions": 4,
+      "ctr": 0,
+      "position": 19.25
+    },
+    {
+      "query": "asset protection law firm",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 58
+    },
+    {
+      "query": "asset protection lawyer",
+      "clicks": 0,
+      "impressions": 10,
+      "ctr": 0,
+      "position": 24.1
+    },
+    {
+      "query": "asset protection lawyer co",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 83
+    },
+    {
+      "query": "asset protection lawyers oklahoma city",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 19
+    },
+    {
+      "query": "asset protection lawyers tulsa",
+      "clicks": 0,
+      "impressions": 5,
+      "ctr": 0,
+      "position": 15.8
+    },
+    {
+      "query": "asset protection planning attorney",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 32
+    },
+    {
+      "query": "asset protection planning tulsa",
+      "clicks": 0,
+      "impressions": 4,
+      "ctr": 0,
+      "position": 16.5
+    },
+    {
+      "query": "asset protection trust attorney",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 56
+    },
+    {
+      "query": "asset protection tulsa",
+      "clicks": 0,
+      "impressions": 9,
+      "ctr": 0,
+      "position": 17.89
+    },
+    {
+      "query": "asset recovery legal advice",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 90.5
+    },
+    {
+      "query": "asset recovery litigation lawyer",
+      "clicks": 0,
+      "impressions": 33,
+      "ctr": 0,
+      "position": 89.73
+    },
+    {
+      "query": "assets",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "attorney",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "attorney asset protection",
+      "clicks": 0,
+      "impressions": 4,
+      "ctr": 0,
+      "position": 15.75
+    },
+    {
+      "query": "attorney broken arrow ok",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 30
+    },
+    {
+      "query": "attorney claims",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 12
+    },
+    {
+      "query": "attorney divorce",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 2
+    },
+    {
+      "query": "attorney for land",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 97.33
+    },
+    {
+      "query": "attorney for land disputes",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 10
+    },
+    {
+      "query": "attorney for living will",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "attorney for tax problems",
+      "clicks": 0,
+      "impressions": 29,
+      "ctr": 0,
+      "position": 44.48
+    },
+    {
+      "query": "attorney for taxes",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 22.5
+    },
+    {
+      "query": "attorney general",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 9
+    },
+    {
+      "query": "attorney in wagoner ok",
+      "clicks": 0,
+      "impressions": 10,
+      "ctr": 0,
+      "position": 57.3
+    },
+    {
+      "query": "attorney muskogee",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "attorney muskogee ok",
+      "clicks": 0,
+      "impressions": 9,
+      "ctr": 0,
+      "position": 21
+    },
+    {
+      "query": "attorney near me",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 9.33
+    },
+    {
+      "query": "attorney norman ok",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 61
+    },
+    {
+      "query": "attorney oklahoma tax",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 18
+    },
+    {
+      "query": "attorney pawhuska",
+      "clicks": 0,
+      "impressions": 181,
+      "ctr": 0,
+      "position": 53.58
+    },
+    {
+      "query": "attorney tahlequah",
+      "clicks": 0,
+      "impressions": 6,
+      "ctr": 0,
+      "position": 3.5
+    },
+    {
+      "query": "attorney tahlequah ok",
+      "clicks": 0,
+      "impressions": 5,
+      "ctr": 0,
+      "position": 2.8
+    },
+    {
+      "query": "attorney tax",
+      "clicks": 0,
+      "impressions": 14,
+      "ctr": 0,
+      "position": 48.43
+    },
+    {
+      "query": "attorney tax law",
+      "clicks": 0,
+      "impressions": 6,
+      "ctr": 0,
+      "position": 64.17
+    },
+    {
+      "query": "attorney tax preparation",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 96
+    },
+    {
+      "query": "attorney taxes",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 36
+    },
+    {
+      "query": "attorneys bixby ok",
+      "clicks": 0,
+      "impressions": 40,
+      "ctr": 0,
+      "position": 70.15
+    },
+    {
+      "query": "attorneys blanchard ok",
+      "clicks": 0,
+      "impressions": 93,
+      "ctr": 0,
+      "position": 69.7
+    },
+    {
+      "query": "attorneys choctaw ok",
+      "clicks": 0,
+      "impressions": 130,
+      "ctr": 0,
+      "position": 46.88
+    },
+    {
+      "query": "attorneys cushing ok",
+      "clicks": 0,
+      "impressions": 47,
+      "ctr": 0,
+      "position": 49.98
+    },
+    {
+      "query": "attorneys for wrongful termination",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 8
+    },
+    {
+      "query": "attorneys glenpool ok",
+      "clicks": 0,
+      "impressions": 38,
+      "ctr": 0,
+      "position": 69.03
+    },
+    {
+      "query": "attorneys guthrie ok",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 62
+    },
+    {
+      "query": "attorneys in broken arrow oklahoma",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 16
+    },
+    {
+      "query": "attorneys in creek county",
+      "clicks": 0,
+      "impressions": 43,
+      "ctr": 0,
+      "position": 61.35
+    },
+    {
+      "query": "attorneys in muskogee",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 19
+    },
+    {
+      "query": "attorneys in muskogee ok",
+      "clicks": 0,
+      "impressions": 5,
+      "ctr": 0,
+      "position": 26.2
+    },
+    {
+      "query": "attorneys in muskogee oklahoma",
+      "clicks": 0,
+      "impressions": 16,
+      "ctr": 0,
+      "position": 12.38
+    },
+    {
+      "query": "attorneys in okmulgee oklahoma",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 56
+    },
+    {
+      "query": "attorneys in tahlequah",
+      "clicks": 0,
+      "impressions": 7,
+      "ctr": 0,
+      "position": 2.29
+    },
+    {
+      "query": "attorneys in tahlequah ok",
+      "clicks": 0,
+      "impressions": 7,
+      "ctr": 0,
+      "position": 3.71
+    },
+    {
+      "query": "attorneys in tahlequah oklahoma",
+      "clicks": 0,
+      "impressions": 44,
+      "ctr": 0,
+      "position": 6.23
+    },
+    {
+      "query": "attorneys langston ok",
+      "clicks": 0,
+      "impressions": 33,
+      "ctr": 0,
+      "position": 85.27
+    },
+    {
+      "query": "attorneys mcloud ok",
+      "clicks": 0,
+      "impressions": 85,
+      "ctr": 0,
+      "position": 71.2
+    },
+    {
+      "query": "attorneys muskogee",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 19
+    },
+    {
+      "query": "attorneys muskogee ok",
+      "clicks": 0,
+      "impressions": 17,
+      "ctr": 0,
+      "position": 23.88
+    },
+    {
+      "query": "attorneys mustang ok",
+      "clicks": 0,
+      "impressions": 31,
+      "ctr": 0,
+      "position": 72.03
+    },
+    {
+      "query": "attorneys near me",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 8
+    },
+    {
+      "query": "attorneys near stillwater",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 66.5
+    },
+    {
+      "query": "attorneys nicoma park ok",
+      "clicks": 0,
+      "impressions": 19,
+      "ctr": 0,
+      "position": 73
+    },
+    {
+      "query": "attorneys owasso ok",
+      "clicks": 0,
+      "impressions": 27,
+      "ctr": 0,
+      "position": 73.96
+    },
+    {
+      "query": "attorneys perkins ok",
+      "clicks": 0,
+      "impressions": 19,
+      "ctr": 0,
+      "position": 58
+    },
+    {
+      "query": "attorneys realty",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 80
+    },
+    {
+      "query": "attorneys slaughterville ok",
+      "clicks": 0,
+      "impressions": 11,
+      "ctr": 0,
+      "position": 81.55
+    },
+    {
+      "query": "attorneys stillwater",
+      "clicks": 0,
+      "impressions": 73,
+      "ctr": 0,
+      "position": 54.41
+    },
+    {
+      "query": "attorneys stillwater ok",
+      "clicks": 0,
+      "impressions": 30,
+      "ctr": 0,
+      "position": 61.3
+    },
+    {
+      "query": "attorneys tahlequah",
+      "clicks": 0,
+      "impressions": 16,
+      "ctr": 0,
+      "position": 1.62
+    },
+    {
+      "query": "attorneys tahlequah ok",
+      "clicks": 0,
+      "impressions": 151,
+      "ctr": 0,
+      "position": 1.82
+    },
+    {
+      "query": "attorneys the village ok",
+      "clicks": 0,
+      "impressions": 16,
+      "ctr": 0,
+      "position": 65.88
+    },
+    {
+      "query": "attorneys watonga ok",
+      "clicks": 0,
+      "impressions": 107,
+      "ctr": 0,
+      "position": 50.46
+    },
+    {
+      "query": "attorneys who help with state tax debt",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 41
+    },
+    {
+      "query": "audrey myers attorney muskogee ok",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 19
+    },
+    {
+      "query": "back taxes attorney",
+      "clicks": 0,
+      "impressions": 25,
+      "ctr": 0,
+      "position": 16.4
+    },
+    {
+      "query": "back taxes lawyer",
+      "clicks": 0,
+      "impressions": 9,
+      "ctr": 0,
+      "position": 12
+    },
+    {
+      "query": "bailey & bailey",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 11
+    },
+    {
+      "query": "bailey attorney at law",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 6
+    },
+    {
+      "query": "bailey law",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 3
+    },
+    {
+      "query": "bailey law firm",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 11
+    },
+    {
+      "query": "bailey oklahoma",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 11
+    },
+    {
+      "query": "bailey senator oklahoma 2007",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 34
+    },
+    {
+      "query": "bailey's law firm",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 10
+    },
+    {
+      "query": "bankruptcy attorney",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 9
+    },
+    {
+      "query": "bankruptcy attorney near me",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 7
+    },
+    {
+      "query": "best criminal defense attorneys in oklahoma",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 45
+    },
+    {
+      "query": "best criminal defense lawyers in oklahoma",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 45
+    },
+    {
+      "query": "best custody lawyer near me",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 3
+    },
+    {
+      "query": "best divorce attorney in oklahoma city",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 3
+    },
+    {
+      "query": "best divorce attorney in tulsa ok",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 2
+    },
+    {
+      "query": "best divorce attorney okc",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 2
+    },
+    {
+      "query": "best divorce lawyer in oklahoma city",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 3
+    },
+    {
+      "query": "best divorce lawyers in tulsa",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 3
+    },
+    {
+      "query": "best divorce lawyers okc",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 2
+    },
+    {
+      "query": "best family lawyer near me",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 10
+    },
+    {
+      "query": "best guardianship lawyers near me",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "best income tax lawyer near me",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 6
+    },
+    {
+      "query": "best lawyers for executives in family business and closely held company disputes",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 8
+    },
+    {
+      "query": "best small claims lawyer near me",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 11
+    },
+    {
+      "query": "best tax attorney in oklahoma",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 21.33
+    },
+    {
+      "query": "best tax attorney near me",
+      "clicks": 0,
+      "impressions": 4,
+      "ctr": 0,
+      "position": 22.5
+    },
+    {
+      "query": "bicycle accident attorney",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 41
+    },
+    {
+      "query": "bicycle accident lawyer",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 41
+    },
+    {
+      "query": "bj baker tahlequah",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 42.5
+    },
+    {
+      "query": "bj baker tahlequah ok",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 42
+    },
+    {
+      "query": "black law firm near me",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 6
+    },
+    {
+      "query": "black oak legal",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "both",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 3.33
+    },
+    {
+      "query": "bound over for trial",
+      "clicks": 0,
+      "impressions": 12,
+      "ctr": 0,
+      "position": 9.83
+    },
+    {
+      "query": "boundover",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 3
+    },
+    {
+      "query": "bridgewater legal group",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 36
+    },
+    {
+      "query": "broken arrow attorneys",
+      "clicks": 0,
+      "impressions": 4,
+      "ctr": 0,
+      "position": 20.25
+    },
+    {
+      "query": "broken arrow business attorney",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 37
+    },
+    {
+      "query": "broken arrow business lawyer",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 37.67
+    },
+    {
+      "query": "broken arrow business lawyers",
+      "clicks": 0,
+      "impressions": 24,
+      "ctr": 0,
+      "position": 26.58
+    },
+    {
+      "query": "broken arrow oklahoma business lawyers",
+      "clicks": 0,
+      "impressions": 30,
+      "ctr": 0,
+      "position": 12.9
+    },
+    {
+      "query": "broken arrow oklahoma civil litigation lawyers",
+      "clicks": 0,
+      "impressions": 5,
+      "ctr": 0,
+      "position": 48.4
+    },
+    {
+      "query": "broken arrow oklahoma criminal defense lawyers",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 31
+    },
+    {
+      "query": "broken arrow oklahoma tax lawyers",
+      "clicks": 0,
+      "impressions": 41,
+      "ctr": 0,
+      "position": 9.37
+    },
+    {
+      "query": "broken arrow probate attorney",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "broken arrow real estate lawyers",
+      "clicks": 0,
+      "impressions": 13,
+      "ctr": 0,
+      "position": 46.15
+    },
+    {
+      "query": "broken arrow tax lawyers",
+      "clicks": 0,
+      "impressions": 29,
+      "ctr": 0,
+      "position": 29.62
+    },
+    {
+      "query": "broken arrow to tahlequah",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 11
+    },
+    {
+      "query": "business agreement lawyers",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 15
+    },
+    {
+      "query": "business attorney",
+      "clicks": 0,
+      "impressions": 72,
+      "ctr": 0,
+      "position": 17.99
+    },
+    {
+      "query": "business attorney broken arrow",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 12
+    },
+    {
+      "query": "business attorney free consultation oklahoma",
+      "clicks": 0,
+      "impressions": 7,
+      "ctr": 0,
+      "position": 16.57
+    },
+    {
+      "query": "business attorney near me",
+      "clicks": 0,
+      "impressions": 4,
+      "ctr": 0,
+      "position": 33
+    },
+    {
+      "query": "business attorney near me oklahoma",
+      "clicks": 0,
+      "impressions": 8,
+      "ctr": 0,
+      "position": 22.38
+    },
+    {
+      "query": "business attorney okc",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 36
+    },
+    {
+      "query": "business attorney oklahoma",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 15
+    },
+    {
+      "query": "business attorney oklahoma city",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 60
+    },
+    {
+      "query": "business attorneys",
+      "clicks": 0,
+      "impressions": 42,
+      "ctr": 0,
+      "position": 52.14
+    },
+    {
+      "query": "business attorneys chandler ok",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 51.5
+    },
+    {
+      "query": "business attorneys cushing ok",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 53
+    },
+    {
+      "query": "business attorneys in my area",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 9
+    },
+    {
+      "query": "business attorneys in oklahoma",
+      "clicks": 0,
+      "impressions": 133,
+      "ctr": 0,
+      "position": 21.82
+    },
+    {
+      "query": "business attorneys in oklahoma city",
+      "clicks": 0,
+      "impressions": 50,
+      "ctr": 0,
+      "position": 50.24
+    },
+    {
+      "query": "business attorneys near me",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 8
+    },
+    {
+      "query": "business attorneys okc",
+      "clicks": 0,
+      "impressions": 127,
+      "ctr": 0,
+      "position": 27.43
+    },
+    {
+      "query": "business attorneys oklahoma",
+      "clicks": 0,
+      "impressions": 120,
+      "ctr": 0,
+      "position": 20.42
+    },
+    {
+      "query": "business attorneys oklahoma city",
+      "clicks": 0,
+      "impressions": 112,
+      "ctr": 0,
+      "position": 66.04
+    },
+    {
+      "query": "business dispute lawyer okc",
+      "clicks": 0,
+      "impressions": 8,
+      "ctr": 0,
+      "position": 26.25
+    },
+    {
+      "query": "business disputes lawyer",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "business formation attorney",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 29
+    },
+    {
+      "query": "business formation attorney near me",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 49
+    },
+    {
+      "query": "business formation lawyer near me",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 26.33
+    },
+    {
+      "query": "business law attorney",
+      "clicks": 0,
+      "impressions": 41,
+      "ctr": 0,
+      "position": 11
+    },
+    {
+      "query": "business law attorney bristow",
+      "clicks": 0,
+      "impressions": 47,
+      "ctr": 0,
+      "position": 76.7
+    },
+    {
+      "query": "business law attorneys",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 10
+    },
+    {
+      "query": "business law edmond, ok",
+      "clicks": 0,
+      "impressions": 25,
+      "ctr": 0,
+      "position": 47.04
+    },
+    {
+      "query": "business law firm",
+      "clicks": 0,
+      "impressions": 11,
+      "ctr": 0,
+      "position": 19.73
+    },
+    {
+      "query": "business law group",
+      "clicks": 0,
+      "impressions": 7,
+      "ctr": 0,
+      "position": 41.71
+    },
+    {
+      "query": "business law law firm near me",
+      "clicks": 0,
+      "impressions": 7,
+      "ctr": 0,
+      "position": 20.57
+    },
+    {
+      "query": "business law law firms near me",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 90
+    },
+    {
+      "query": "business law llc",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 50
+    },
+    {
+      "query": "business law okc",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 52
+    },
+    {
+      "query": "business law oklahoma city, ok",
+      "clicks": 0,
+      "impressions": 27,
+      "ctr": 0,
+      "position": 60.44
+    },
+    {
+      "query": "business law services",
+      "clicks": 0,
+      "impressions": 57,
+      "ctr": 0,
+      "position": 84.93
+    },
+    {
+      "query": "business lawyer",
+      "clicks": 0,
+      "impressions": 594,
+      "ctr": 0,
+      "position": 6.96
+    },
+    {
+      "query": "business lawyer for small business",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 37
+    },
+    {
+      "query": "business lawyer near me",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 43.5
+    },
+    {
+      "query": "business lawyer near me oklahoma",
+      "clicks": 0,
+      "impressions": 5,
+      "ctr": 0,
+      "position": 21.6
+    },
+    {
+      "query": "business lawyer okc",
+      "clicks": 0,
+      "impressions": 14,
+      "ctr": 0,
+      "position": 22.07
+    },
+    {
+      "query": "business lawyer oklahoma city",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 63
+    },
+    {
+      "query": "business lawyer primary",
+      "clicks": 0,
+      "impressions": 7,
+      "ctr": 0,
+      "position": 5.43
+    },
+    {
+      "query": "business lawyers",
+      "clicks": 0,
+      "impressions": 28,
+      "ctr": 0,
+      "position": 68.36
+    },
+    {
+      "query": "business lawyers free consultation",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 59
+    },
+    {
+      "query": "business lawyers in okc",
+      "clicks": 0,
+      "impressions": 118,
+      "ctr": 0,
+      "position": 35.38
+    },
+    {
+      "query": "business lawyers in oklahoma",
+      "clicks": 0,
+      "impressions": 123,
+      "ctr": 0,
+      "position": 25.64
+    },
+    {
+      "query": "business lawyers in oklahoma city",
+      "clicks": 0,
+      "impressions": 19,
+      "ctr": 0,
+      "position": 47.74
+    },
+    {
+      "query": "business lawyers near me",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 39
+    },
+    {
+      "query": "business lawyers okc",
+      "clicks": 0,
+      "impressions": 103,
+      "ctr": 0,
+      "position": 56.12
+    },
+    {
+      "query": "business lawyers oklahoma",
+      "clicks": 0,
+      "impressions": 130,
+      "ctr": 0,
+      "position": 34.02
+    },
+    {
+      "query": "business lawywer",
+      "clicks": 0,
+      "impressions": 23,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "business legal solutions",
+      "clicks": 0,
+      "impressions": 4,
+      "ctr": 0,
+      "position": 74.25
+    },
+    {
+      "query": "business litigation attorney",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "business litigation attorney oklahoma",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 25.5
+    },
+    {
+      "query": "business litigation attorneys near me",
+      "clicks": 0,
+      "impressions": 4,
+      "ctr": 0,
+      "position": 69.75
+    },
+    {
+      "query": "business rights law firm",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 18
+    },
+    {
+      "query": "businesses in muskogee ok",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 101
+    },
+    {
+      "query": "businesses in tahlequah ok",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 63
+    },
+    {
+      "query": "bussett legal group",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 54
+    }
+  ],
+  "pages": [
+    {
+      "page": "https://gclawgroup.com/who-gets-the-house-in-an-oklahoma-divorce/",
+      "clicks": 87,
+      "impressions": 5147,
+      "ctr": 0.0169,
+      "position": 6.08
+    },
+    {
+      "page": "https://gclawgroup.com/law-firm-in-tahlequah-ok/?utm_source=organic&utm_medium=GBP&utm_campaign=GBP_Tahlequah",
+      "clicks": 53,
+      "impressions": 4788,
+      "ctr": 0.0111,
+      "position": 2.33
+    },
+    {
+      "page": "https://gclawgroup.com/",
+      "clicks": 47,
+      "impressions": 5436,
+      "ctr": 0.0086,
+      "position": 42.32
+    },
+    {
+      "page": "https://gclawgroup.com/practice-areas/tribal-law/",
+      "clicks": 32,
+      "impressions": 2027,
+      "ctr": 0.0158,
+      "position": 12.39
+    },
+    {
+      "page": "https://gclawgroup.com/attorney/jared-desilvey/",
+      "clicks": 22,
+      "impressions": 270,
+      "ctr": 0.0815,
+      "position": 6.41
+    },
+    {
+      "page": "https://gclawgroup.com/law-firm-in-muskogee-ok/?utm_source=organic&utm_medium=GBP&utm_campaign=GBP_Muskogee",
+      "clicks": 17,
+      "impressions": 1159,
+      "ctr": 0.0147,
+      "position": 3.41
+    },
+    {
+      "page": "https://gclawgroup.com/attorney/wayne-bailey/",
+      "clicks": 15,
+      "impressions": 751,
+      "ctr": 0.02,
+      "position": 6.2
+    },
+    {
+      "page": "https://gclawgroup.com/law-firm-in-tulsa-ok/?utm_source=organic&utm_medium=GBP&utm_campaign=GBP_Broken_Arrow",
+      "clicks": 12,
+      "impressions": 230,
+      "ctr": 0.0522,
+      "position": 18.44
+    },
+    {
+      "page": "https://gclawgroup.com/what-to-expect-at-a-criminal-trial-in-oklahoma/",
+      "clicks": 12,
+      "impressions": 1053,
+      "ctr": 0.0114,
+      "position": 7.86
+    },
+    {
+      "page": "https://gclawgroup.com/practice-areas/tax-law/",
+      "clicks": 9,
+      "impressions": 9071,
+      "ctr": 0.001,
+      "position": 20.14
+    },
+    {
+      "page": "https://gclawgroup.com/attorney/deni-ketterman/",
+      "clicks": 8,
+      "impressions": 144,
+      "ctr": 0.0556,
+      "position": 9.51
+    },
+    {
+      "page": "https://gclawgroup.com/contact-us/",
+      "clicks": 6,
+      "impressions": 920,
+      "ctr": 0.0065,
+      "position": 17.55
+    },
+    {
+      "page": "https://gclawgroup.com/attorney/ambrielle-glass/",
+      "clicks": 5,
+      "impressions": 50,
+      "ctr": 0.1,
+      "position": 15.48
+    },
+    {
+      "page": "https://gclawgroup.com/about/",
+      "clicks": 4,
+      "impressions": 699,
+      "ctr": 0.0057,
+      "position": 4.53
+    },
+    {
+      "page": "https://gclawgroup.com/practice-areas/real-estate-law/",
+      "clicks": 4,
+      "impressions": 3282,
+      "ctr": 0.0012,
+      "position": 19.41
+    },
+    {
+      "page": "https://gclawgroup.com/what-happens-if-im-sued-in-oklahoma/",
+      "clicks": 4,
+      "impressions": 217,
+      "ctr": 0.0184,
+      "position": 10.32
+    },
+    {
+      "page": "https://gclawgroup.com/what-to-know-about-state-vs-federal-tax-debt/",
+      "clicks": 4,
+      "impressions": 980,
+      "ctr": 0.0041,
+      "position": 6.55
+    },
+    {
+      "page": "https://gclawgroup.com/law-firm-in-tahlequah-ok/",
+      "clicks": 3,
+      "impressions": 258,
+      "ctr": 0.0116,
+      "position": 7.66
+    },
+    {
+      "page": "https://gclawgroup.com/practice-areas/family-law/",
+      "clicks": 3,
+      "impressions": 2561,
+      "ctr": 0.0012,
+      "position": 32.77
+    },
+    {
+      "page": "https://gclawgroup.com/?utm_source=organic&utm_medium=GBP&utm_campaign=GBP_Tahlequah",
+      "clicks": 2,
+      "impressions": 352,
+      "ctr": 0.0057,
+      "position": 17.21
+    },
+    {
+      "page": "https://gclawgroup.com/employee-retention-credit-delays-and-denials/",
+      "clicks": 2,
+      "impressions": 391,
+      "ctr": 0.0051,
+      "position": 11.6
+    },
+    {
+      "page": "https://gclawgroup.com/practice-areas/business-law/",
+      "clicks": 2,
+      "impressions": 2266,
+      "ctr": 0.0009,
+      "position": 33.77
+    },
+    {
+      "page": "https://gclawgroup.com/practice-areas/estate-planning/asset-protection-attorney/",
+      "clicks": 2,
+      "impressions": 308,
+      "ctr": 0.0065,
+      "position": 30.62
+    },
+    {
+      "page": "https://gclawgroup.com/blog/",
+      "clicks": 1,
+      "impressions": 311,
+      "ctr": 0.0032,
+      "position": 6.22
+    },
+    {
+      "page": "https://gclawgroup.com/law-firm-in-muskogee-ok/",
+      "clicks": 1,
+      "impressions": 709,
+      "ctr": 0.0014,
+      "position": 10.87
+    },
+    {
+      "page": "https://gclawgroup.com/practice-areas/estate-planning/trusts/irrevocable/",
+      "clicks": 1,
+      "impressions": 159,
+      "ctr": 0.0063,
+      "position": 10.5
+    },
+    {
+      "page": "https://gclawgroup.com/when-to-incorporate-a-trust-in-an-estate-plan/",
+      "clicks": 1,
+      "impressions": 10,
+      "ctr": 0.1,
+      "position": 35.8
+    },
+    {
+      "page": "https://gclawgroup.com/who-gets-the-house-in-an-oklahoma-divorce",
+      "clicks": 1,
+      "impressions": 9,
+      "ctr": 0.1111,
+      "position": 1
+    },
+    {
+      "page": "https://gclawgroup.com/attorney__trashed/ambrielle-glass/",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 3
+    },
+    {
+      "page": "https://gclawgroup.com/blog/page/2/",
+      "clicks": 0,
+      "impressions": 4,
+      "ctr": 0,
+      "position": 5.5
+    },
+    {
+      "page": "https://gclawgroup.com/blog/page/3/",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 6
+    },
+    {
+      "page": "https://gclawgroup.com/building-a-strong-foundation-when-should-you-hire-a-business-lawyer-in-oklahoma/",
+      "clicks": 0,
+      "impressions": 128,
+      "ctr": 0,
+      "position": 10.4
+    },
+    {
+      "page": "https://gclawgroup.com/disclaimer/",
+      "clicks": 0,
+      "impressions": 14,
+      "ctr": 0,
+      "position": 43.79
+    },
+    {
+      "page": "https://gclawgroup.com/green-country-law-group-hosts-free-small-business-tax-seminar/",
+      "clicks": 0,
+      "impressions": 37,
+      "ctr": 0,
+      "position": 16.11
+    },
+    {
+      "page": "https://gclawgroup.com/heres-what-not-to-do-in-a-child-custody-case/",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 5
+    },
+    {
+      "page": "https://gclawgroup.com/internal-form-all-locations/",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 8
+    },
+    {
+      "page": "https://gclawgroup.com/law-firm-in-norman-ok/",
+      "clicks": 0,
+      "impressions": 9,
+      "ctr": 0,
+      "position": 21.56
+    },
+    {
+      "page": "https://gclawgroup.com/law-firm-in-norman-ok/?utm_source=organic&utm_medium=GBP&utm_campaign=GBP_Norman",
+      "clicks": 0,
+      "impressions": 96,
+      "ctr": 0,
+      "position": 22.32
+    },
+    {
+      "page": "https://gclawgroup.com/law-firm-in-tulsa-ok/",
+      "clicks": 0,
+      "impressions": 66,
+      "ctr": 0,
+      "position": 44.2
+    },
+    {
+      "page": "https://gclawgroup.com/practice-areas/business-law/#1",
+      "clicks": 0,
+      "impressions": 11,
+      "ctr": 0,
+      "position": 10.36
+    },
+    {
+      "page": "https://gclawgroup.com/practice-areas/business-law/#2",
+      "clicks": 0,
+      "impressions": 43,
+      "ctr": 0,
+      "position": 10.07
+    },
+    {
+      "page": "https://gclawgroup.com/practice-areas/business-law/#3",
+      "clicks": 0,
+      "impressions": 43,
+      "ctr": 0,
+      "position": 10.07
+    },
+    {
+      "page": "https://gclawgroup.com/practice-areas/business-law/#4",
+      "clicks": 0,
+      "impressions": 11,
+      "ctr": 0,
+      "position": 10.36
+    },
+    {
+      "page": "https://gclawgroup.com/practice-areas/business-law/#5",
+      "clicks": 0,
+      "impressions": 11,
+      "ctr": 0,
+      "position": 10.36
+    },
+    {
+      "page": "https://gclawgroup.com/practice-areas/car-wrecks/",
+      "clicks": 0,
+      "impressions": 12,
+      "ctr": 0,
+      "position": 31.33
+    },
+    {
+      "page": "https://gclawgroup.com/practice-areas/criminal-defense/",
+      "clicks": 0,
+      "impressions": 1427,
+      "ctr": 0,
+      "position": 34.01
+    },
+    {
+      "page": "https://gclawgroup.com/practice-areas/estate-planning/",
+      "clicks": 0,
+      "impressions": 649,
+      "ctr": 0,
+      "position": 15.62
+    },
+    {
+      "page": "https://gclawgroup.com/practice-areas/estate-planning/durable-power-of-attorney/",
+      "clicks": 0,
+      "impressions": 53,
+      "ctr": 0,
+      "position": 9.87
+    },
+    {
+      "page": "https://gclawgroup.com/practice-areas/estate-planning/living-will-attorney/",
+      "clicks": 0,
+      "impressions": 17,
+      "ctr": 0,
+      "position": 6
+    },
+    {
+      "page": "https://gclawgroup.com/practice-areas/estate-planning/trusts/",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 6
+    },
+    {
+      "page": "https://gclawgroup.com/practice-areas/estate-planning/trusts/revocable-trust-lawyer/",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 8
+    },
+    {
+      "page": "https://gclawgroup.com/practice-areas/estate-planning/trusts/special-needs-trust-lawyer/",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 12
+    },
+    {
+      "page": "https://gclawgroup.com/practice-areas/estate-planning/wills/",
+      "clicks": 0,
+      "impressions": 9,
+      "ctr": 0,
+      "position": 14.67
+    },
+    {
+      "page": "https://gclawgroup.com/practice-areas/family-law/#1",
+      "clicks": 0,
+      "impressions": 7,
+      "ctr": 0,
+      "position": 8.43
+    },
+    {
+      "page": "https://gclawgroup.com/practice-areas/family-law/#2",
+      "clicks": 0,
+      "impressions": 7,
+      "ctr": 0,
+      "position": 8.43
+    },
+    {
+      "page": "https://gclawgroup.com/practice-areas/family-law/#3",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 10.5
+    },
+    {
+      "page": "https://gclawgroup.com/practice-areas/family-law/#4",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 10.5
+    },
+    {
+      "page": "https://gclawgroup.com/practice-areas/family-law/divorce/",
+      "clicks": 0,
+      "impressions": 200,
+      "ctr": 0,
+      "position": 45.65
+    },
+    {
+      "page": "https://gclawgroup.com/practice-areas/litigation-appeals/",
+      "clicks": 0,
+      "impressions": 191,
+      "ctr": 0,
+      "position": 25.68
+    },
+    {
+      "page": "https://gclawgroup.com/practice-areas/oklahoma-estate-planning/",
+      "clicks": 0,
+      "impressions": 11,
+      "ctr": 0,
+      "position": 24.36
+    },
+    {
+      "page": "https://gclawgroup.com/practice-areas/personal-injury/",
+      "clicks": 0,
+      "impressions": 14,
+      "ctr": 0,
+      "position": 33.07
+    },
+    {
+      "page": "https://gclawgroup.com/practice-areas/probate/",
+      "clicks": 0,
+      "impressions": 13,
+      "ctr": 0,
+      "position": 32.85
+    },
+    {
+      "page": "https://gclawgroup.com/practice-areas/probate/contested-will-attorney-in-tahlequah/",
+      "clicks": 0,
+      "impressions": 5,
+      "ctr": 0,
+      "position": 7.2
+    },
+    {
+      "page": "https://gclawgroup.com/practice-areas/probate/contested/",
+      "clicks": 0,
+      "impressions": 8,
+      "ctr": 0,
+      "position": 15.62
+    },
+    {
+      "page": "https://gclawgroup.com/practice-areas/probate/family-probate/",
+      "clicks": 0,
+      "impressions": 9,
+      "ctr": 0,
+      "position": 7.56
+    },
+    {
+      "page": "https://gclawgroup.com/practice-areas/tax-law/#1",
+      "clicks": 0,
+      "impressions": 76,
+      "ctr": 0,
+      "position": 9.14
+    },
+    {
+      "page": "https://gclawgroup.com/practice-areas/tax-law/#2",
+      "clicks": 0,
+      "impressions": 76,
+      "ctr": 0,
+      "position": 9.14
+    },
+    {
+      "page": "https://gclawgroup.com/practice-areas/tax-law/#3",
+      "clicks": 0,
+      "impressions": 19,
+      "ctr": 0,
+      "position": 9.16
+    },
+    {
+      "page": "https://gclawgroup.com/practice-areas/tax-law/#4",
+      "clicks": 0,
+      "impressions": 73,
+      "ctr": 0,
+      "position": 9.11
+    },
+    {
+      "page": "https://gclawgroup.com/practice-areas/tribal-law",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "page": "https://gclawgroup.com/privacy-policy/",
+      "clicks": 0,
+      "impressions": 8,
+      "ctr": 0,
+      "position": 6.75
+    },
+    {
+      "page": "https://gclawgroup.com/recovering-from-tbi-after-a-car-accident/",
+      "clicks": 0,
+      "impressions": 9,
+      "ctr": 0,
+      "position": 21.44
+    },
+    {
+      "page": "https://gclawgroup.com/share-your-feedback-broken-arrow/",
+      "clicks": 0,
+      "impressions": 4,
+      "ctr": 0,
+      "position": 6
+    },
+    {
+      "page": "https://gclawgroup.com/share-your-feedback-muskogee/",
+      "clicks": 0,
+      "impressions": 15,
+      "ctr": 0,
+      "position": 6.67
+    },
+    {
+      "page": "https://gclawgroup.com/share-your-feedback-norman/",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 7
+    },
+    {
+      "page": "https://gclawgroup.com/share-your-feedback-tahlequah/",
+      "clicks": 0,
+      "impressions": 10,
+      "ctr": 0,
+      "position": 7.3
+    },
+    {
+      "page": "https://gclawgroup.com/shop/",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 5.33
+    },
+    {
+      "page": "https://gclawgroup.com/site-map/",
+      "clicks": 0,
+      "impressions": 74,
+      "ctr": 0,
+      "position": 7.23
+    },
+    {
+      "page": "https://gclawgroup.com/the-house-in-an-oklahoma-divorce-a-clear-guide-to-your-options",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "page": "https://gclawgroup.com/the-house-in-an-oklahoma-divorce/",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "page": "https://gclawgroup.com/understanding-ad-valorem-property-taxes-in-oklahoma/",
+      "clicks": 0,
+      "impressions": 13,
+      "ctr": 0,
+      "position": 15.15
+    },
+    {
+      "page": "https://gclawgroup.com/what-to-do-after-a-car-accident/",
+      "clicks": 0,
+      "impressions": 14,
+      "ctr": 0,
+      "position": 12.93
+    },
+    {
+      "page": "https://gclawgroup.com/what-to-know-about-state-vs-federal-tax-debt",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "page": "https://gclawgroup.com/what-to-look-for-in-an-oklahoma-divorce-attorney/",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 2
+    },
+    {
+      "page": "https://gclawgroup.com/what-to-owns-about-state-vs-federal-tax-debt",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "page": "https://gclawgroup.com/who-gets-the-house-in-an-oklahoma-divorage/",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "page": "https://gclawgroup.com/who-gets-the-house-in-an-oklahoma-divorces/",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "page": "https://gclawgroup.com/who-gets-the-house-in-an-oklahoma-divorcin-oklahoma/",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "page": "https://gclawgroup.com/who-gets-the-house-in-an-oklahoma-divorcing",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "page": "https://www.gclawgroup.com/",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "page": "https://www.gclawgroup.com/who-gets-the-house-in-an-oklahoma-divorce/",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 1
+    }
+  ],
+  "devices": [
+    {
+      "device": "MOBILE",
+      "clicks": 255,
+      "impressions": 10881,
+      "ctr": 0.0234,
+      "position": 14.5
+    },
+    {
+      "device": "DESKTOP",
+      "clicks": 97,
+      "impressions": 29747,
+      "ctr": 0.0033,
+      "position": 22.46
+    },
+    {
+      "device": "TABLET",
+      "clicks": 3,
+      "impressions": 128,
+      "ctr": 0.0234,
+      "position": 20.31
+    }
+  ]
+}
